@@ -1,0 +1,7 @@
+C:\Users\HP ELITEBOOK 845\Desktop\daily task\linq\linq\bin\Debug\linq.exe.config
+C:\Users\HP ELITEBOOK 845\Desktop\daily task\linq\linq\bin\Debug\linq.exe
+C:\Users\HP ELITEBOOK 845\Desktop\daily task\linq\linq\bin\Debug\linq.pdb
+C:\Users\HP ELITEBOOK 845\Desktop\daily task\linq\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+C:\Users\HP ELITEBOOK 845\Desktop\daily task\linq\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+C:\Users\HP ELITEBOOK 845\Desktop\daily task\linq\linq\obj\Debug\linq.exe
+C:\Users\HP ELITEBOOK 845\Desktop\daily task\linq\linq\obj\Debug\linq.pdb
