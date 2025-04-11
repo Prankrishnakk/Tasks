@@ -1,0 +1,6 @@
+@dependency_HostAddress = http://localhost:5171
+
+GET {{dependency_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
